@@ -164,3 +164,7 @@ constraint in the problem statement.
    a script into the "platform" the problem statement asks for.
 5. **Command & control integration**: alerts.csv → REST webhook / MQTT
    publish, so this plugs into whatever C2 system border forces already use.
+
+## Requirements
+
+- Python 3.11 or newer
